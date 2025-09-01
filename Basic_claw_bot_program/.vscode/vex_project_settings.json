@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "Basic_claw_bot_program",
+		"slot": 1,
+		"description": "Program to make a clawbot follow a labrynth",
+		"platform": "V5",
+		"creationDate": "Mon, 01 Sep 2025 12:25:12 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240802_15_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.7.2025041600",
+		"json": 1
+	}
+}
