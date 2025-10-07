@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/samyukta/Documents/Coding/VEX/For_class/Racebot",
+      "program": "/Users/samyukta/Documents/Coding/VEX/For_class/Racebot/build/Debug/outDebug"
+    }
+  ]
+}
